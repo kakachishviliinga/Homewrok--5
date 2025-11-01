@@ -1,0 +1,135 @@
+.list-style {
+  none
+}
+
+body {
+  font-family: "PT Sans", sans-serif;
+}
+
+header {
+  width: 1440px;
+  margin: auto;
+  background-color: rgba(42, 157, 143, 1);
+  padding: 38px 130px;
+}
+
+.nav link {
+  font-weight: 700px;
+  font-size: 32px;
+  font-style: bold;
+  line height: 32px;
+  letter-spacing: 0, 5%;
+  color: rgba(255, 255, 255, 1);
+
+
+}
+
+.nav {
+  display: inline-block;
+  vertical-align: middle;
+
+}
+
+.logo {
+  display: inline-block;
+  width: 46px;
+  height: 46px;
+  vertical-align: middle;
+  margin-right: 680px;
+}
+
+.lii {
+  display: inline-block;
+  margin-right: 80px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.home {
+  text-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.8);
+
+}
+
+.section {
+  margin: auto;
+  width: 1440px;
+  background-color: rgba(212, 243, 240, 1) padding: 80px 130px;
+}
+
+.foto {
+  display: inline-block;
+  width: 600px;
+  height: 480px;
+  margin: 80px 710px 80px 130px;
+
+}
+
+.artic {
+  display: inline-block;
+  margin: auto;
+  width: 460px;
+  vertical-align: top;
+  margin: 76px 126px 108px 846px;
+}
+
+.h1 {
+  font-weight: 700px;
+  font-style: Italic;
+  font-size: 32px;
+  Letter spacing: 0.5%;
+  color: rgba(6, 104, 110, 1);
+}
+
+.h2 {
+  font-weight: 400px;
+  font-style: Italic;
+  font-size: 18px;
+  Line height: 26px;
+  Letter spacing: 0.5%;
+  text-elign: justify;
+  margin-top: 32px;
+  color: rgba(6, 104, 110, 1);
+}
+
+.button {
+  width: 146px;
+  height: 48px;
+  margin-top: 42px;
+  border: none;
+  background-color: rgba(42, 157, 143, 1);
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  font-weight: 700px;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+}
+
+.footer {
+  width: 1440px;
+  margin: auto;
+  background-color: rgba(42, 157, 143, 1);
+  padding-block: 38px;
+  text-align: center;
+}
+
+.Follow {
+  margin-bottom: 40px;
+  font-weight: 400px;
+  font-style: Regular;
+  font-size: 32px;
+  Line height: 40px;
+  Letter spacing: 0px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  text-decoration-line: underline;
+}
+
+.ulii {
+  display: inline-block;
+  margin-right: 18px;
+}
+
+.ulii-4 {
+  display: inline-block;
+  margin: none;
+}
